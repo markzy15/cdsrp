@@ -8,7 +8,6 @@ Picture
     <title>Display Image</title>
 </head>
 <body>
-    <img src="![image](https://github.com/markzy15/cdsrp/assets/56472960/ca3b52e4-5e66-49cf-ae81-db80caeb8f90)
-" alt="Image" width="500" height="500">
+    <img src="https://cdn.discordapp.com/attachments/1071476097046290536/1259050264640622723/Copy_of_Black_and_White_Minimalist_Fashion_Store_Logo_20240706_153459_0001.png?ex=668a456f&is=6688f3ef&hm=c17f4364ae86d9b38ec215563759b09122ec418af85b3f14ba85e54618592486&" alt="Image" width="500" height="500">
 </body>
 </html>
