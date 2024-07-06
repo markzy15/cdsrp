@@ -8,6 +8,7 @@ Picture
     <title>Display Image</title>
 </head>
 <body>
-    <img src="https://user-images.githubusercontent.com/56472960/209845938-3a8c7ca9-2023-4ea4-9707-22db4c49b56c.png" alt="Image" width="500" height="500">
+    <img src="![image](https://github.com/markzy15/cdsrp/assets/56472960/ca3b52e4-5e66-49cf-ae81-db80caeb8f90)
+" alt="Image" width="500" height="500">
 </body>
 </html>
